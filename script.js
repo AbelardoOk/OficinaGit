@@ -11,6 +11,9 @@
 // 3 --> git commit -m "nome do commit"
 // 4 --> git branch -M master
 
+// 5 --> git add .
+// 6 --> git commit -m "Mensagem"
+// 7 --> git push --set-upstream origin master
 
 
 
